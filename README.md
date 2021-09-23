@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loukas-web
+- 👋 Hi, I’m @loukas-sideris
 - 👀 I’m interested in Python, SQLite, MySQL, PostgreSQL, Microsoft SQL, Windows Server
 - 🌱 I’m currently learning Python, Windows Server
 - 💞️ I’m looking to collaborate on ...
